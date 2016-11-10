@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RikvanToorn-pset2</string>
+    <string name="input_text">Fill in he story to complete the words!</string>
+    <string name="input_button_text">OK</string>
+    <string name="intro_text">Welcome to Mad Libs! I will ask you to fill in the words to complete a story. You won\'t be able to see the whole story until you are done filling in all the missing words. That\'s part of the fun. Click below to get started...</string>
+    <string name="intro_button">GET STARTED!</string>
+</resources>
