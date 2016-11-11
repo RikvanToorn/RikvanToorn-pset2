@@ -16,7 +16,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".InputActivity"
-            android:label="Input words"
+        android:label="Input words"
+        android:theme="@style/AppTheme" />
+        <activity android:name=".StoryCompleted"
+            android:label="Your story"
             android:theme="@style/AppTheme" />
     </application>
 </manifest>

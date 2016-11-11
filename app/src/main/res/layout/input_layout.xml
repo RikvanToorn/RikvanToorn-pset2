@@ -23,13 +23,19 @@
             android:id="@+id/words_input"
             android:hint="word"
             />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/input_button_text"
+            android:onClick="insertWord"
             android:id="@+id/ok_button"/>
 
-
-
     </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_gravity="center"
+        android:id="@+id/wordsLeft" />
 </LinearLayout>
